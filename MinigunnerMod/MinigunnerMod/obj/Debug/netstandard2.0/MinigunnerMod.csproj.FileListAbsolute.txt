@@ -1,0 +1,10 @@
+E:\Game Folders\Risk of Rain 2 Modding\Minigunner Mod Project\MinigunnerMod\MinigunnerMod\bin\Debug\netstandard2.0\MinigunnerMod.deps.json
+E:\Game Folders\Risk of Rain 2 Modding\Minigunner Mod Project\MinigunnerMod\MinigunnerMod\bin\Debug\netstandard2.0\MinigunnerMod.dll
+E:\Game Folders\Risk of Rain 2 Modding\Minigunner Mod Project\MinigunnerMod\MinigunnerMod\bin\Debug\netstandard2.0\MinigunnerMod.pdb
+E:\Game Folders\Risk of Rain 2 Modding\Minigunner Mod Project\MinigunnerMod\MinigunnerMod\obj\Debug\netstandard2.0\MinigunnerMod.csproj.AssemblyReference.cache
+E:\Game Folders\Risk of Rain 2 Modding\Minigunner Mod Project\MinigunnerMod\MinigunnerMod\obj\Debug\netstandard2.0\MinigunnerMod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Game Folders\Risk of Rain 2 Modding\Minigunner Mod Project\MinigunnerMod\MinigunnerMod\obj\Debug\netstandard2.0\MinigunnerMod.AssemblyInfoInputs.cache
+E:\Game Folders\Risk of Rain 2 Modding\Minigunner Mod Project\MinigunnerMod\MinigunnerMod\obj\Debug\netstandard2.0\MinigunnerMod.AssemblyInfo.cs
+E:\Game Folders\Risk of Rain 2 Modding\Minigunner Mod Project\MinigunnerMod\MinigunnerMod\obj\Debug\netstandard2.0\MinigunnerMod.csproj.CoreCompileInputs.cache
+E:\Game Folders\Risk of Rain 2 Modding\Minigunner Mod Project\MinigunnerMod\MinigunnerMod\obj\Debug\netstandard2.0\MinigunnerMod.dll
+E:\Game Folders\Risk of Rain 2 Modding\Minigunner Mod Project\MinigunnerMod\MinigunnerMod\obj\Debug\netstandard2.0\MinigunnerMod.pdb

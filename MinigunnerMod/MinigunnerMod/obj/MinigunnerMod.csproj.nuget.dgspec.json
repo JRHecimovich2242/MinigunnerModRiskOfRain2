@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Game Folders\\Risk of Rain 2 Modding\\Minigunner Mod Project\\MinigunnerMod\\MinigunnerMod\\MinigunnerMod.csproj": {}
+  },
+  "projects": {
+    "E:\\Game Folders\\Risk of Rain 2 Modding\\Minigunner Mod Project\\MinigunnerMod\\MinigunnerMod\\MinigunnerMod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Game Folders\\Risk of Rain 2 Modding\\Minigunner Mod Project\\MinigunnerMod\\MinigunnerMod\\MinigunnerMod.csproj",
+        "projectName": "MinigunnerMod",
+        "projectPath": "E:\\Game Folders\\Risk of Rain 2 Modding\\Minigunner Mod Project\\MinigunnerMod\\MinigunnerMod\\MinigunnerMod.csproj",
+        "packagesPath": "C:\\Users\\JRHec\\.nuget\\packages\\",
+        "outputPath": "E:\\Game Folders\\Risk of Rain 2 Modding\\Minigunner Mod Project\\MinigunnerMod\\MinigunnerMod\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "E:\\Game Folders\\Risk of Rain 2 Modding\\Minigunner Mod Project\\MinigunnerMod\\NuGet.Config",
+          "C:\\Users\\JRHec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "MMHOOK.RoR2": {
+              "target": "Package",
+              "version": "[2022.4.19, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "R2API": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "RiskOfRain2.GameLibs": {
+              "target": "Package",
+              "version": "[1.2.4-r.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
